@@ -1,7 +1,7 @@
 {
   "name": "SydneyServices",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Sandeep Kumar",
   "homepage": "http://ionicframework.com/",
   "private": true,
   "scripts": {
@@ -36,5 +36,5 @@
     "@ionic/app-scripts": "3.1.9",
     "typescript": "~2.6.2"
   },
-  "description": "An Ionic project"
+  "description": "Hybrid android mobile app to connect service providers and service consumers in Sydney on single platform"
 }
